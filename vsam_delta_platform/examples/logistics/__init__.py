@@ -1,0 +1,1 @@
+"""Logistics domain: Shipment Tracking."""
